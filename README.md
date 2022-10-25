@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Vanboylan/Vanboylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
+I'm Jason, and I'm a fullstack developer focusing primarily on Javascript.
 
 - 🔭 I’m currently working on changing my career into full stack software development
 - 🌱 I’m currently learning the nuances of Javascript
@@ -15,12 +10,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: here, Instagram: @jlboylan, or by email jason.l.boylan@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a former European Ju-Jitsu champion, I've supported Toploader and I've played at Ronnie Scott's... and all I got was this lousy Github profile
--->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -39,3 +34,6 @@ Here are some ideas to get you started:
       ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
       ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
       ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+      
+     
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
