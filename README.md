@@ -6,16 +6,17 @@ I'm Jason, and I'm a fullstack developer focusing primarily on Javascript and Ty
 - 🌱 I’m currently learning the nuances of Javascript
 - 👯 I’m looking to collaborate on fun short-term projects, and find learning experiences wherever I can get them
 - 🤔 I’m looking for a company that want to invest in me, and help me to grow as a developer
-- 💬 Ask me about music if you want your ear chewed off
+- 💬 Ask me about my kids or music if you want your ear chewed off
 - 📫 How to reach me: here on Github or by email jasonlboylan+github@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a former European Ju-Jitsu champion, I've supported Toploader and I've played at Ronnie Scott's... and all I got was this lousy Github profile
 
+In my past, I've had a very diverse mix of roles ranging from technical support, retail, sales, teaching in prisons for a charity and being a music producer. The key difference between me and other candidates, is that I've had so much experience of people skills at all levels - from the uniquities and challenges of high-street betting shops and prisons, to the office-friendly corporate setting of a household-name media company.
+
+It's this diversity that gives me the ability to fit in to any scenario without compromising on being myself. This allows me to be an open and communicative employee that can put ego and anxiety aside to ensure I'm learning whilst achieving, and growing consistently in every role I have.
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 Day to day, I generally use:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -30,6 +31,7 @@ testing with:
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 on:       ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+
 I regularly use:
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -38,6 +40,7 @@ I regularly use:
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
 but also have experience in:
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
