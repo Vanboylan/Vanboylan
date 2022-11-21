@@ -2,8 +2,8 @@
 
 I'm Jason, and I'm a fullstack developer focusing primarily on Javascript and Typescript.
 
-- 🔭 I’m currently working on changing my career into full stack software development
-- 🌱 I’m currently learning the nuances of Javascript
+- 🔭 I’m currently working on a project to manage and monitor job applications
+- 🌱 I’m currently learning how to write callbacks and fetch requests in my sleep
 - 👯 I’m looking to collaborate on fun short-term projects, and find learning experiences wherever I can get them
 - 🤔 I’m looking for a company that want to invest in me, and help me to grow as a developer
 - 💬 Ask me about my kids or music if you want your ear chewed off
