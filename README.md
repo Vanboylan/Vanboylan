@@ -1,19 +1,11 @@
-### Hi there 👋
+Looking for a highly motivated and skilled software developer to take your team to the next level? 
 
-I'm Jason, and I'm a fullstack developer focusing primarily on Javascript and Typescript.
+Look no further than Jason! 
 
-- 🔭 I’m currently working on a project to manage and monitor job applications
-- 🌱 I’m currently learning how to write callbacks and fetch requests in my sleep
-- 👯 I’m looking to collaborate on fun short-term projects, and find learning experiences wherever I can get them
-- 🤔 I’m looking for a company that want to invest in me, and help me to grow as a developer
-- 💬 Ask me about my kids or music if you want your ear chewed off
-- 📫 How to reach me: here on Github or by email jasonlboylan+github@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a former European Ju-Jitsu champion, I've supported Toploader and I've played at Ronnie Scott's... and all I got was this lousy Github profile
+With a background spanning multiple industries, Jason has developed a unique set of skills that make him stand out from the crowd. 
+As a graduate of the highly selective Makers Academy, Jason has honed his full stack software development skills and is well-versed in JavaScript, TypeScript, and Ruby. But what really sets Jason apart is his ability to communicate effectively, manage time and workflows, lead teams, and work independently to achieve outstanding results. 
 
-In my past, I've had a very diverse mix of roles ranging from technical support, retail, sales, teaching in prisons for a charity and being a music producer. The key difference between me and other candidates, is that I've had so much experience of people skills at all levels - from the uniquities and challenges of high-street betting shops and prisons, to the office-friendly corporate setting of a household-name media company.
-
-It's this diversity that gives me the ability to fit in to any scenario without compromising on being myself. This allows me to be an open and communicative employee that can put ego and anxiety aside to ensure I'm learning whilst achieving, and growing consistently in every role I have.
+Whether you need a collaborative team member or a driven individual, Jason has the expertise and passion to take your project to new heights. Contact him today to see how he can help bring your vision to life!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
@@ -25,6 +17,7 @@ working with:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 testing with:
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
@@ -35,7 +28,6 @@ on:       ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-ba
 I regularly use:
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -44,4 +36,4 @@ I regularly use:
 but also have experience in:
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
